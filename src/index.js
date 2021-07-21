@@ -1,5 +1,4 @@
 import jsonmenu from './my-file.json';
-import jsmenu from './app';
 import './css/styles.css';
 
 // вывести списком этот отсортированный список
