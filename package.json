@@ -1,24 +1,24 @@
 {
-  "name": "goit-js-hw-09-repeta-parcel",
+  "name": "json-task",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://irynakarmazinova.github.io/goit-js-hw-09-repeta-parcel",
+  "homepage": "https://irynakarmazinova.github.io/JSON-task",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-09-repeta-parcel/",
+    "build": "parcel build src/*.html --public-url /JSON-task/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/irynakarmazinova/goit-js-hw-09-repeta-parcel.git"
+    "url": "git+https://github.com/irynakarmazinova/JSON-task.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/irynakarmazinova/goit-js-hw-09-repeta-parcel/issues"
+    "url": "https://github.com/irynakarmazinova/JSON-task/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
